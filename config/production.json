@@ -9,8 +9,8 @@
 		"port": "9080",
 		"user": "maxadmin",
 		"password": "maxadmin",
-		"auth_scheme": "",
-		"authtype": "",
+		"auth_scheme": "/maximo",
+		"authtype": "maxauth",
 		"islean": 1
 	}
 }
